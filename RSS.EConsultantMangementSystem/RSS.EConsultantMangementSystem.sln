@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.EConsultantMangementSystem", "RSS.EConsultantMangementSystem\RSS.EConsultantMangementSystem.csproj", "{B2434305-201F-4D16-8AA7-07071E41B166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.EConsultantMangementSystem.Tests", "RSS.EConsultantMangementSystem.Tests\RSS.EConsultantMangementSystem.Tests.csproj", "{2BA0573D-2689-49E8-AC41-A01E6EEEE5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.EconsultatntManagementWebAPI", "RSS.EconsultatntManagementWebAPI\RSS.EconsultatntManagementWebAPI.csproj", "{24B690CB-B553-4556-8A3D-16CB1912C073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.EconsultatntManagementWebAPI.Tests", "RSS.EconsultatntManagementWebAPI.Tests\RSS.EconsultatntManagementWebAPI.Tests.csproj", "{299223D8-1728-41A8-BD65-04CC76F6759E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowStockDashboard", "..\LowStockDashboard\LowStockDashboard.csproj", "{2CCE97C7-BFA6-4CEA-AC83-5907F01AF80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2434305-201F-4D16-8AA7-07071E41B166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2434305-201F-4D16-8AA7-07071E41B166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2434305-201F-4D16-8AA7-07071E41B166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2434305-201F-4D16-8AA7-07071E41B166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA0573D-2689-49E8-AC41-A01E6EEEE5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA0573D-2689-49E8-AC41-A01E6EEEE5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA0573D-2689-49E8-AC41-A01E6EEEE5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA0573D-2689-49E8-AC41-A01E6EEEE5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B690CB-B553-4556-8A3D-16CB1912C073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B690CB-B553-4556-8A3D-16CB1912C073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B690CB-B553-4556-8A3D-16CB1912C073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B690CB-B553-4556-8A3D-16CB1912C073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299223D8-1728-41A8-BD65-04CC76F6759E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299223D8-1728-41A8-BD65-04CC76F6759E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299223D8-1728-41A8-BD65-04CC76F6759E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299223D8-1728-41A8-BD65-04CC76F6759E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCE97C7-BFA6-4CEA-AC83-5907F01AF80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCE97C7-BFA6-4CEA-AC83-5907F01AF80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCE97C7-BFA6-4CEA-AC83-5907F01AF80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
